@@ -2,4 +2,4 @@
 test 1
 
 
-hello child
+DISCARD ME
